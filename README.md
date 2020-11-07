@@ -22,8 +22,8 @@ AppointX is a cross-platform mobile and web support application for booking onli
 * SOS: A one tap to call any helpline ✔️
 * Read free & regular health tips ✔️
 * Attractive user interface ✔️
- # Checkout the video 
-[![video](https://user-images.githubusercontent.com/61155876/97987627-a2333e80-1e01-11eb-9f5c-b8b847d59a9b.JPG)](https://www.youtube.com/watch?v=S5Q6MJ33OjA&feature=youtu.be)
+[//]: # ( # Checkout the video )
+[//]: # ( [![video](https://user-images.githubusercontent.com/61155876/97987627-a2333e80-1e01-11eb-9f5c-b8b847d59a9b.JPG)](https://www.youtube.com/watch?v=S5Q6MJ33OjA&feature=youtu.be) )
 
 # Some mobile app snippets
 
@@ -69,6 +69,8 @@ One can also consult from healthcare providers from best clinics & top hospitals
 🔅Online doctor consultation of experienced doctors from top hospitals in India
 
 🔅Test your covid-19 using chest X-Ray
+
+🔅Test your skin-cancer using infected skin image
 
 🔅Test your heart disease using some basic details.
 
