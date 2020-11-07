@@ -23,6 +23,8 @@ AppointX is a cross-platform mobile and web support application for booking onli
 * Read free & regular health tips ✔️
 * Attractive user interface ✔️
 
+# Checkout the video 
+[![video](https://user-images.githubusercontent.com/61155876/97987627-a2333e80-1e01-11eb-9f5c-b8b847d59a9b.JPG)](https://youtu.be/fa9v6hIW1Ek)
 
 # Some mobile app snippets
 
